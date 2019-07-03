@@ -5,9 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-<em>If you do not have journal access for one of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em>
+<!-- <em>If you do not have journal access for one of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em> -->
 
-<table>
+## Books
+
+## Book Chapters
+
+## Journal Articles
+
+- 
+
+
+<!-- <table border="0">
   
   <tr><th>2022</th><td>
     <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc04228d" target="_blank">Schreck, J. S., <u>Coley, C. W.</u>, Bishop, K. J. M. &ldquo;Learning retrosynthetic planning through self-play&rdquo;</a> <a style="color:blue" href="https://arxiv.org/abs/1901.06569" target="_blank">[preprint]</a>
@@ -102,5 +111,5 @@ author_profile: true
 <a href="http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b02821" target="_blank">Abolhasani, M.; <u>Coley, C. W.</u>; Xie, L.; Chen, O.; Bawendi, M. G.; Jensen, K. F., &ldquo;Oscillatory microprocessor for growth and in situ characterization of semiconductor nanocrystals.&rdquo; <em>Chem. Mater.</em> <strong>27</strong>(17), 6131&ndash;6138 (<strong>2015</strong>).</a> <a href="https://pubs.acs.org/page/vi/materials-genomics.html" style="color:blue" target="_blank">[selected for special issue ACS Materials Genomics]</a>
   </td></tr>
   
-</table>
+</table> -->
 
