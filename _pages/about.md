@@ -10,6 +10,12 @@ redirect_from:
 
 ![May 2012](images/group_may2012.jpg)
 
+**Top Row**: Devesh, Dan, James, Justin, Chia-Hung    
+**Middle Row**: Rob, Ki Heok, Zack    
+**Bottom Row**: Evan, Qian, Dr. Ogunnaike, Melissa, Jake, Joanna
+
+-----
+
 Our research efforts are organized around the general theme of first understanding the dynamic behavior of complex systems through mathematical modeling and analysis, and then exploiting this understanding for novel designs and improved operation. The particular complex systems of interest range from polymer reactors, particulate processes and extruders, to biological systems on the cellular, tissue, and organ levels. When sufficient fundamental knowledge is available, we develop and employ dynamic “mechanistic” models; when more data is available than fundamental knowledge, we apply probability theory and statistics for efficient data acquisition and “empirical” model development. Our research group has three main areas of focus.
 
 ### Control and System Theory
