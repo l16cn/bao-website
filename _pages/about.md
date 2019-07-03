@@ -10,6 +10,20 @@ redirect_from:
 
 ![May 2012](images/group_may2012.jpg)
 
+Our research efforts are organized around the general theme of first understanding the dynamic behavior of complex systems through mathematical modeling and analysis, and then exploiting this understanding for novel designs and improved operation. The particular complex systems of interest range from polymer reactors, particulate processes and extruders, to biological systems on the cellular, tissue, and organ levels. When sufficient fundamental knowledge is available, we develop and employ dynamic “mechanistic” models; when more data is available than fundamental knowledge, we apply probability theory and statistics for efficient data acquisition and “empirical” model development. Our research group has three main areas of focus.
+
+### Control and System Theory
+
+We are concerned with the development of effective control techniques, with application to industrial polymer reactors, distillation columns, particulate processes, and reactive extrusion processes; we are also interested in reverse engineering biological control systems for process applications.
+
+### Systems Biology
+
+We bring principles of control and systems theory as well as probabilistic/statistical techniques to bear on the analysis of biological processes. We are developing models, tools and techniques to study biological systems across various levels of granularity—from the molecular level where mechanistic details at the genetic and protein levels are studied, to the cellular, tissue, organ and physiological system level. The goals of our systems biology efforts are to be able to understand, analyze and predict integrated biological systems function with sufficient fidelity for potential practical medical and pharmaceutical applications.
+
+### Product Engineering, Process Design and Operations
+
+We employ both stochastic and deterministic technique s for engineering desired characteristics into products, and subsequently for developing inherently robust processes to manufacture these products to meet customer demands consistently in the face of unavoidable process and raw material variations.
+
 > Research is to see what everybody else sees, and to think what nobody else has thought. (Albert Szent-Györgyi)
 
 <!-- This is the FRONT page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

@@ -7,13 +7,32 @@ author_profile: true
 
 <!-- <em>If you do not have journal access for one of the papers below, send me an email and I will gladly provide a copy of the manuscript.</em> -->
 
-## Books
+|Books|
+|:-|
+|B. A. Ogunnaike, Random Phenomena: Fundamentals of Probability & Statistics for Engineers, CRC Press/Taylor & Francis, Boca Raton, FL., 2009.|
+|J. B. Rawlings, B. A. Ogunnaike, and J. W. Eaton, Editors, Chemical Process Control VI, AIChE Press, N.Y., 2002.|
+|F. J. Doyle, R. K. Pearson, and B. A. Ogunnaike, Identification and Control Using Volterra Models, Springer Verlag, London, 2002.|
+|B. A. Ogunnaike and W. H. Ray, Process Dynamics Modeling and Control, Oxford University Press, N.Y., 1994.|
+|B. A. Ogunnaike, Principles of Mathematical Modelling and Analysis in Chemical Engineering, DONE Publishers, Lagos, Nigeria, 1985.|
 
-## Book Chapters
+|Book Chapters|
+|:-|
+|M. St. Amand, P. Millili, M. McCabe, and B. A. Ogunnaike. "A Strategic vision for integrated PAT in biologics manufacturing and advanced control" Ch. 2 in PAT Applied in Biopharmaceutical Process Development and Manufacturing: An Enabling Tool for Quality-by-Design, Eds. Undey et. al CRC Press, Boca Raton, Fl. 2011.|
+|B. A. Ogunnaike, G. François, M. Soroush, and D. Bonvin, "Control of Polymerization Processes," Chapter 12 in The Control Handbook, 2nd Edition, Ed. William Levine, CRC Press, Boca Raton, FL. 2010.
+|M. R. Birtwistle, B. Kholodenko, and B. A. Ogunnaike, "Experimental Design for Parameter Identifiability in Biological Signal Transduction Modeling," Chapter 10 in Systems Analysis of Biological Networks, Ed. A. Jayaraman and J. Hahn, Artech House, London, 2009.
+|A.D. Shapiro, V. Agrawal, Dhurjati P.S., K.J Czymmek., B.A. Ogunnaike, and C. Zhang , "Systems Biology Explanations of Cell-to-Cell Communication Coordinating the Arabidopsis Hypersensitive Response." pp275-280 In: Biology of Plant-Microbe Interactions, Vol. 5, Sanchez F. and Geiger O. (Eds.) International Society for Molecular Plant-Microbe Interactions, St. Paul, Minnesota. 2006.
+|N. Hernjak, F.J. Doyle, III, B.A.Ogunnaike, and R.K. Pearson, "Chemical Process Characterization for Control Design" in Integration of Design and Control, P. Seferlis and M. Georgiadis (Eds), Elsevier 2004.
+|B.A. Ogunnaike "Nonlinear control of industrial processes," Chapter 10 of: Nonlinear Predictive Control, B. Kouvaritakis and M. Cannon (Eds), The Institution of Electrical Engineers, London, 2001.
+|J.D. Bomberger, D.E. Seborg, and B.A. Ogunnaike, "RBFN identification of an industrial polymerization reactor model" in: Application of Neural Networks and Other Learning Technologies in Process Engineering, I.M. Mujtaba and M.A. Hussain (Eds), Imperial College Press, London, 2001.
+|B.A. Ogunnaike and R.A. Wright, "Industrial applications of nonlinear control" in: Chemical Process Control V, J.C. Kantor, C.E. Garcia, and B. Carnahan (Eds), AIChE Press, NY 1997.
+|A. Banerjee, Y. Arkun, R.K. Pearson, and B.A. Ogunnaike, "H∞ control of nonlinear processes using multiple linear models," Chapter 12 of: Multiple Model Approaches to Modelling and Control, R. Murray-Smith and T.A. Johansen (Eds), Taylor & Francis, London, 1997.
+|F.J. Doyle III, M.A. Henson, B. A. Ogunnaike, J.S. Schwaber, and I. Rybak, "Neuronal modeling of the baroreceptor reflex with applications in process modeling and control," Chapter 5 of: Neural Systems for Control, O. Omidvar and D.L. Elliot (Eds), Academic Press, San Diego, 1997.
+|R.K. Pearson and B.A. Ogunnaike, "Nonlinear model identification," Chapter 2 of: Nonlinear Process Control, M.A. Henson and D.E. Seborg (Eds), Prentice-Hall, Englewood Cliffs, NJ, 1996.
+|B.A. Ogunnaike, "Controller design for process systems," Chapter 33 of: Handbook of Heat and Mass Transfer, Vol. 3, N.P. Cheremisinoff (Ed), Gulf Publishers, West Orange, NJ, 1989.|
 
-## Journal Articles
-
-- 
+|Journal Articles|
+|:-|
+|G. McIlvain, E. Ganji, C. Cooper, M.L. Killian, B.A. Ogunnaike, and C. L. Johnson, "Reliable preparation of agarose phantoms for use in quantitative magnetic resonance elastography," Journal of the mechanical behavior of biomedical materials, 97, 65-73, 2019|
 
 
 <!-- <table border="0">
