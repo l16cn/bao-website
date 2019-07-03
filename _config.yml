@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Ogunnaike Research Group"
+title                    : "Babatunde A. Ogunnaike"
 title_separator          : "-"
-name                     : &name "Babatunde Ogunnaike"
+name                     : &name "Babatunde A. Ogunnaike"
 description              : &description "personal description"
 url                      : https://l16cn.github.io/bao-website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Babatunde Ogunnaike"
+  name             : "Babatunde A. Ogunnaike"
   avatar           : ogunnaike.jpg
   bio              : "William L. Friend Professor"
   location         : "Newark, DE"
