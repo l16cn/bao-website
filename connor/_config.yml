@@ -7,19 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Ogunnaike Research Group"
+title                    : "Connor W. Coley"
 title_separator          : "-"
-name                     : &name "Babatunde Ogunnaike"
-description              : &description "personal description"
-url                      : https://l16cn.github.io/bao-website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Connor W. Coley"
+description              : &description "Academic website"
+url                      : https://connorcoley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"academicpages/academicpages.github.io"
+repository               : "connorcoley/connorcoley.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -50,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "7bhzkedoCO8p_FQIUdvcomT4RzXWYpxlK1cDjmM7nr0"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -75,20 +73,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-28798435-3"
 
 
 # Site Author
 author:
-  name             : "Babatunde Ogunnaike"
-  avatar           : ogunnaike.jpg
-  bio              : "Professor"
-  location         : "Newark, DE"
+  name             : "Connor W. Coley"
+  avatar           : "Headshot June 2018 square low quality.jpg"
+  bio              : "Chemical Engineering @ MIT"
+  location         : "Cambridge, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=l015S80AAAAJ&hl=en"
+  email            : "ccoley@mit.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "connorcoley"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "connorcoley"
+  orcid            : "https://orcid.org/0000-0002-8271-8723"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+  twitter          : "cwcoley"
   vine             :
   weibo            :
   xing             :
@@ -129,21 +124,21 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -182,10 +177,19 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
+    permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true 
+    permalink: /:collection/:path/
+  education:
+    output: true 
     permalink: /:collection/:path/
 
 
@@ -245,6 +249,33 @@ defaults:
       author_profile: true
       share: true
 
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _honors
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -255,11 +286,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
