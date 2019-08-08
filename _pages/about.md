@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+![August 2019](images/group_aug2019.jpg)
+
+**Left to Right**: Varghese, Khalid, Navid, Dr. Ogunnaike, Yu, Vivek, Alex
+
 ![May 2012](images/group_may2012.jpg)
 
 **Top Row**: Devesh, Dan, James, Justin, Chia-Hung    
