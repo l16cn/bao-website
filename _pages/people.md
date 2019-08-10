@@ -26,17 +26,17 @@ author_profile: true
 
 |Name|Area|
 |:-|:-|
-|Alex Harding|Fabricating perovskite solar cells using close space vapor transport reactor|
+|[Alex Harding](https://www.linkedin.com/in/alexander-harding-8161a5187/)|Fabricating perovskite solar cells using close space vapor transport reactor|
 
 ### Postdocs
 
 |Name|Education|Area|
 | :- | :- | :- |
 |[Yu Luo](https://l16cn.github.io)|Columbia University|Modeling, design, and control of monoclonal antibody formation and glycosylation processes|
-|Navid Ghadipasha|Louisiana State University|Modeling and control of chronic obstructive pulmonary disease|
-|Vivek Shankar Pinnamaraju|IIT Madras||
-|Khalid Rashid|University of Utah||
-|Varghese Kurian|IIT Madras||
+|[Navid Ghadipasha](https://www.linkedin.com/in/navid-ghadipasha-1b9744134/)|Louisiana State University|Modeling and control of chronic obstructive pulmonary disease|
+|[Vivek Shankar Pinnamaraju](https://www.researchgate.net/profile/Vivek_Pinnamaraju2)|IIT Madras||
+|[Khalid Rashid](https://www.linkedin.com/in/khalid-rashid-7971a6b2/)|University of Utah||
+|[Varghese Kurian](https://scholar.google.com/citations?user=qcLypVUAAAAJ&hl=en&oi=ao)|IIT Madras||
 
 ### Alumni
 
