@@ -42,21 +42,21 @@ author_profile: true
 
 |Name|Year|Thesis Title|Current Affiliation|
 |:-|:-|:-|:-|
-|Robert Lovelett|2016|||
-|Devesh Radhakrishnan|2016|Modeling, Estimation, and Control of Glycosylation in Monoclonal Antibodies Produced in CHO Cells||
-|Zachary Whiteman||||
-|Daniel Cook||||
-|Jake McGill||||
-|Melissa St. Amand||||
-|Qian Gou||||
-|James Park||||
-|Chia-Hung Tsai||||
-|Seung-Wook Chung   |2011   |Quantitative Modeling and Analysis of the Transforming Growth Factor β Signaling Network   |Sr. Scientist, Systems Biology, Boehringer Ingelheim Pharmaceuticals, Inc.|
-|Greg Miller        |2010   |A Systems investigation of the neural regulation of cardiovascular function    |St. Jude Children's Research Hospital|
-|Mary (McDonald) Staehle    |2010   |Characterizing Neuroadaptation Processes in Chronic Alcohol Dependence and Acute Alcohol Withdrawal in Rats|Assistant Professor, Rowan University|
-|Erik Welf|2009|Integrative modeling of cell adhesion processes|Postdoctoral researcher at North Carolina State University|
-|Marc Birtwistle|2008|Modeling andÂ  Analysis of the ErbB Signaling Network:Â  From Single Cells to Tumorigenesis|Assistant Professor, Mount Sinai School of Medicine|
-|Claudio Gelmi|2007|A Novel Probabilistic Framework For Microarray Data Analysis: From Fundamental Probability Models To Experimental Validation|Assistant Professor, Pontificia Universidad CatÃ³lica de Chile|
-|Kapil Mukati|2007|An alternative structure for next generation regulatory controllers and scale-up of Copper Indium Gallium Selenide thin film co-evaporative physical vapor deposition process|Senior Process Consultant, Kongsberg Oil and Gas Technologies, Inc.|
+|[Robert Lovelett](https://www.linkedin.com/in/robertlovelett/)|2016|Rapid thermal processing for production of chalcopyrite thin films for solar cells: Design, analysis, and experimental implementation|Postdoctoral Research Associate, Princeton University|
+|[Devesh Radhakrishnan](https://www.linkedin.com/in/devesh-radhakrishnan-a1aba22b/)|2016|Modeling, estimation, and control of glycosylation in monoclonal antibodies produced in CHO cells|Scientist, BioMarin Pharmaceutical Inc.|
+|Daniel Cook|2016|Liver regeneration and cellular adaptation to chronic diseases: A systems biology investigation||
+|[James Park](https://www.linkedin.com/in/james-park-33431229/)|2016|A single-cell analysis approach to understanding molecular organization and plasticity in the brain|Postdoctoral Fellow, The Institute for Systems Biology|
+|[Chia-Hung Tsai](https://www.linkedin.com/in/chia-hung-tsai-0a889a30/)|2016|An engineering control system paradigm for quantitative understanding of hemostasis|Senior Scientist, Boehringer Ingelheim Parmaceuticals, Inc.|
+|[Zachary Whiteman](https://www.linkedin.com/in/zack-whiteman-35969332/)|2015|Design, analysis, operation, and advanced control of hybrid renewable energy systems|Senior Application Engineer, ExxonMobil|
+|[Jacob McGill](https://www.linkedin.com/in/jacob-mcgill-b712b123/)|2014|Analysis and control of self-assembled heteroepitaxial thin-film surface patterns|Senior Research Engineer, Apogee Research, LLC|
+|[Qian Gou](https://www.linkedin.com/in/qian-gou-63456750/)|2014|A framework of integrated product design and control in manufacturing polymer nanocomposites|Associate Engineer, The Dow Chemical Company|
+|[Melissa St. Amand](https://www.linkedin.com/in/melissa-st-amand-015b384/)|2013|Toward online quality control during biopharmaceutical production|Senior Research Engineer, Schafer Corporation|
+|[Seung-Wook Chung](https://www.linkedin.com/in/seung-wook-chung-b72b5154/)|2011|Quantitative modeling and analysis of the transforming growth factor β signaling network|Principal Scientist, Boehringer Ingelheim|
+|[Greg Miller](https://www.linkedin.com/in/greg-miller-51413b48/)|2010   |A Systems investigation of the neural regulation of cardiovascular function    |Principal Data Scientist, Berg|
+|[Mary (McDonald) Staehle](https://engineering.rowan.edu/faculty_staff/listing/staehle-mary.html)|2010|Characterizing neuroadaptation processes in chronic alcohol dependence and acute alcohol withdrawal in rats|Associate Professor and Undergraduate Program Chair, Rowan University|
+|[Erik Welf](https://www.linkedin.com/in/erik-welf-95610610/)|2009|Integrative modeling of cell adhesion processes|Instructor, UT Southwestern Medical Center at Dallas|
+|[Marc Birtwistle](http://www.birtwistlelab.com)|2008|Modeling and analysis of the ErbB signaling network: From single cells to tumorigenesis|Associate Professor, Clemson University|
+|[Claudio Gelmi](https://www.linkedin.com/in/claudiogelmi/)|2007|A novel probabilistic framework for microarray data analysis: From fundamental probability models to experimental validation|Consultor, Data Scientist, Ingeniero de Procesos, I+D|
+|[Kapil Mukati](https://www.linkedin.com/in/kapilmukati/)|2007|An alternative structure for next generation regulatory controllers and scale-up of copper(indium gallium)selenide thin film co-evaporative physical vapor deposition process|Senior Process Consultant, Kongsberg Oil & Gas Technologies|
 |Swapnil Garge|2007|Development of inference based scheme to control product properties and end-use characteristics of a reactive extrusion process|Exxon Mobil|
-|Daniel Zak|2006|Structured modeling of mammalian transcription networks: computational and experimental studiesSenior Scientist, Seattle Biomedical Research Institute|
+|[Daniel Zak](https://www.linkedin.com/in/danieledwardzak/)|2006|Structured modeling of mammalian transcription networks: computational and experimental studies|Senior Data Scientist, bluebird bio|
