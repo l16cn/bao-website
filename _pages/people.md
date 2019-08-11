@@ -47,7 +47,7 @@ author_profile: true
 |[Daniel Cook](https://scholar.google.com/citations?user=BzV2TlwAAAAJ&hl=en)|2016|Liver regeneration and cellular adaptation to chronic diseases: A systems biology investigation|Postdoc, Chalmers University of Technology|
 |[James Park](https://www.linkedin.com/in/james-park-33431229/)|2016|A single-cell analysis approach to understanding molecular organization and plasticity in the brain|Postdoctoral Fellow, The Institute for Systems Biology|
 |[Chia-Hung Tsai](https://www.linkedin.com/in/chia-hung-tsai-0a889a30/)|2016|An engineering control system paradigm for quantitative understanding of hemostasis|Senior Scientist, Boehringer Ingelheim Parmaceuticals, Inc.|
-|[Zachary Whiteman](https://www.linkedin.com/in/zack-whiteman-35969332/)|2015|Design, analysis, operation, and advanced control of hybrid renewable energy systems|Senior Application Engineer, ExxonMobil|
+|[Zachary Whiteman](https://www.linkedin.com/in/zack-whiteman-35969332/)|2015|Design, analysis, operation, and advanced control of hybrid renewable energy systems|Regional Applications Engineering Coordinator, ExxonMobil|
 |[Jacob McGill](https://www.linkedin.com/in/jacob-mcgill-b712b123/)|2014|Analysis and control of self-assembled heteroepitaxial thin-film surface patterns|Senior Research Engineer, Apogee Research, LLC|
 |[Qian Gou](https://www.linkedin.com/in/qian-gou-63456750/)|2014|A framework of integrated product design and control in manufacturing polymer nanocomposites|Associate Engineer, The Dow Chemical Company|
 |[Melissa St. Amand](https://www.linkedin.com/in/melissa-st-amand-015b384/)|2013|Toward online quality control during biopharmaceutical production|Senior Research Engineer, Schafer Corporation|
