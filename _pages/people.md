@@ -42,7 +42,7 @@ author_profile: true
 
 |Name|Year|Thesis Title|Current Affiliation|
 |:-|:-|:-|:-|
-|[Robert Lovelett](https://www.linkedin.com/in/robertlovelett/)|2016|Rapid thermal processing for production of chalcopyrite thin films for solar cells: Design, analysis, and experimental implementation|Postdoctoral Research Associate, Princeton University|
+|[Robert Lovelett](https://www.linkedin.com/in/robertlovelett/)|2016|Rapid thermal processing for production of chalcopyrite thin films for solar cells: Design, analysis, and experimental implementation|Computational Geneticist, Kallyope|
 |[Devesh Radhakrishnan](https://www.linkedin.com/in/devesh-radhakrishnan-a1aba22b/)|2016|Modeling, estimation, and control of glycosylation in monoclonal antibodies produced in CHO cells|Scientist, BioMarin Pharmaceutical Inc.|
 |[Daniel Cook](https://scholar.google.com/citations?user=BzV2TlwAAAAJ&hl=en)|2016|Liver regeneration and cellular adaptation to chronic diseases: A systems biology investigation|Postdoc, Chalmers University of Technology|
 |[James Park](https://www.linkedin.com/in/james-park-33431229/)|2016|A single-cell analysis approach to understanding molecular organization and plasticity in the brain|Postdoctoral Fellow, The Institute for Systems Biology|
