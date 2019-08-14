@@ -16,7 +16,7 @@ author_profile: true
 |Name|Title|Affiliation|
 |:-|:-|:-|
 |[Anne S. Robinson](https://www.cmu.edu/cheme/people/faculty/anne-s-robinson.html)|Professor, Chair|Chemical Engineering, Carnegie Mellon University|
-|[Robert Birkmire](https://mseg.udel.edu/people/birkmire/)|Professor|Institute of Energy Conversion, University of Delaware|
+|[William Shafarman](https://mseg.udel.edu/people/shafarman/)|Professor|Institute of Energy Conversion, University of Delaware|
 |[Dion Vlachos](https://www.che.udel.edu/people/faculty/vlachos/)|Professor|Chemical and Biomolecular Engineering, University of Delaware|
 |[Ulhas Naik](https://www.jefferson.edu/university/life-sciences/faculty-staff/faculty/naik.html)|Professor|Biological Sciences, University of Delaware|
 |[James Schwaber](https://www.jefferson.edu/university/jmc/departments/pathology/faculty/schwaber.html)|Associate Professor|Medical School, Thomas Jefferson University|
