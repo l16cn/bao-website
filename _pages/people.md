@@ -35,7 +35,7 @@ author_profile: true
 |[Yu Luo](https://l16cn.github.io)|Columbia University|Modeling, design, and control of monoclonal antibody formation and glycosylation processes|
 |[Navid Ghadipasha](https://www.linkedin.com/in/navid-ghadipasha-1b9744134/)|Louisiana State University|Modeling and control of chronic obstructive pulmonary disease|
 |[Vivek Shankar Pinnamaraju](https://www.researchgate.net/profile/Vivek_Pinnamaraju2)|IIT Madras|Modeling and control of modular chemical looping systems|
-|[Khalid Rashid](https://www.linkedin.com/in/khalid-rashid-7971a6b2/)|University of Utah||
+|[Khalid Rashid](https://www.linkedin.com/in/khalid-rashid-7971a6b2/)|University of Utah|Modeling, control, and optimization of reactive distillation columns|
 |[Varghese Kurian](https://scholar.google.com/citations?user=qcLypVUAAAAJ&hl=en&oi=ao)|IIT Madras||
 
 ### Alumni
