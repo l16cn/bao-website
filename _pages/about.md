@@ -32,7 +32,7 @@ We bring principles of control and systems theory as well as probabilistic/stati
 
 ### Product Engineering, Process Design and Operations
 
-We employ both stochastic and deterministic technique s for engineering desired characteristics into products, and subsequently for developing inherently robust processes to manufacture these products to meet customer demands consistently in the face of unavoidable process and raw material variations.
+We employ both stochastic and deterministic techniques for engineering desired characteristics into products, and subsequently for developing inherently robust processes to manufacture these products to meet customer demands consistently in the face of unavoidable process and raw material variations.
 
 > Research is to see what everybody else sees, and to think what nobody else has thought. (Albert Szent-Györgyi)
 
