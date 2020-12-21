@@ -32,10 +32,19 @@ author_profile: true
 
 |Journal Articles|
 |:-|
-|2011–2018 (coming soon)|
+|2020|
+|Y. Luo, R.J. Lovelett, J.V. Price, D. Radhakrishnan, K. Barnthouse, P. Hu, E. Schaefer, J. Cunningham, K.H. Lee, R.B. Shivappa, and B.A. Ogunnaike. &quot;Modeling the Effect of Amino Acids and Copper on Monoclonal Antibody Productivity and Glycosylation: A Modular Approach&quot;. Biotechnology Journal, 2000261, 2020|
+|E. Wells, L. Song, M. Greer, Y. Luo, V. Kurian, B.A. Ogunnaike, and A.S. Robinson. &quot;Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation&quot;. Biotechnology and Bioengineering, 117(11), 3310-3321, 2020|
+|J.H. Park, J. Gorky, B.A. Ogunnaike, R. Vadigepalli, and J.S. Schwaber. &quot;Investigating the Effects of Brainstem Neuronal Adaptation on Cardiovascular Homeostasis&quot;. Frontiers in Neuroscience, 14, 470, 2020|
+|M.M. Staehle, S. O’Sullivan, R. Vadigepalli, K.F. Kernan, G.E. Gonye, B.A. Ogunnaike, and J.S. Schwaber. &quot;Diurnal patterns of gene expression in the dorsal vagal complex and the central nucleus of the amygdala–non-rhythm-generating brain regions&quot;. Frontiers in Neuroscience, 14, 375, 2020|
+|A.J. Harding, A.G. Kuba, B.E. McCandless, U.K. Das, K.D. Dobson, B.A. Ogunnaike, and W.N. Shafarman. &quot;The growth of methylammonium lead iodide perovskites by close space vapor transport&quot;. RSC Advances, 10(27), 16125-16131, 2020|
+|2019|
+|B.A. Ogunnaike. &quot;110th Anniversary: Process and Systems Engineering Perspectives on Personalized Medicine and the Design of Effective Treatment of Diseases&quot;. Industrial & Engineering Chemistry Research, 58(44), 20357-20369, 2019|
+|G. McIlvain, E. Ganji, C. Cooper, M.L. Killian, B.A. Ogunnaike, and C.L. Johnson. &quot;Reliable preparation of agarose phantoms for use in quantitative magnetic resonance elastography&quot;. Journal of the Mechanical Behavior of Biomedical Materials, 97, 65-73, 2019|
+|2011–2018[^1]|
 |2010|
 |G. Miller, B.A. Ogunnaike, J. S. Schwaber, and R. Vadigepalli, &quot;Robust dynamic balance of AP-1 transcription factors in a neuronal gene regulatory network&quot;, BMC Systems Biology, 4:171, 2010.
-|S.-W. Chung, C.R. Cooper, M. C. Farach-Carson, and B. A. Ogunnaike, &quot;A Control Engineering Model for Resolving the TGF-&beta; Paradox in Cancer,&quot; Adv. in Theory of Control, Signals 407, 255-268., 2010.
+|S.-W. Chung, C.R. Cooper, M. C. Farach-Carson, and B. A. Ogunnaike, &quot;A Control Engineering Model for Resolving the TGF-&beta; Paradox in Cancer,&quot; Adv. in Theory of Control, Signals 407, 255-268, 2010.
 |S.C. Garge, M.D. Wetzel, and B.A. Ogunnaike, &quot;Inference-Based Scheme for Controlling Product End-Use Properties in Reactive Extrusion Processes,&quot; Ind. Eng. Chem. Res., 49, 8021-8034, 2010.
 |B.A. Ogunnaike, C. A. Gelmi, J. S. Edwards, &quot;A probabilistic framework for microarray data analysis: Fundamental probability models and statistical inference,&quot; J. of Theor. Biol., 264, 211-222, 2010.
 |T. Nakakuki, M.R. Birtwistle, Y. Saeki, N. Yumoto, K. Ide, T. Nagashima, L. Brusch, B.A. Ogunnaike, M. Okada-Hatakeyama, and B.N. Kholodenko, &quot;Ligand-Specific c-Fos Expression Emerges from the Spatiotemporal Control of ErbB Network Dynamics,&quot; Cell, 141, 884-896, 2010.
@@ -129,3 +138,6 @@ author_profile: true
 |B.A. Ogunnaike, &quot;A new approach to observer design for time delay systems,&quot; Int. J. of Control, 33, 519, 1981.
 |1979|
 |B.A. Ogunnaike and W.H. Ray, &quot;Multivariable controller design for linear systems having multiple time delays,&quot; AIChE J., 25, 1043, 1979.
+
+
+[^1]: [YL](https://yuluo.me) needs some help with processing the citation data from [Google Scholar](https://scholar.google.com/citations?user=ggdXvPYAAAAJ&hl=en&oi=ao)&hellip;
